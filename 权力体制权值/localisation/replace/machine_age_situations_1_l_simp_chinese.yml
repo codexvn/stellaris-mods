@@ -1,9 +1,9 @@
 ﻿l_simp_chinese:
   # 义体
-  env_individualism_weight_plus_one: "§Y[个人主义权重+1]§!"
-  env_collectivism_weight_plus_one: "§Y[集体主义权重+1]§!"
-  env_individualism_weight_plus_two: "§Y[个人主义权重+2]§!"
-  env_collectivism_weight_plus_two: "§Y[集体主义权重+2]§!"
+  env_individualism_weight_plus_one: "§Y个人主义权重+1§!"
+  env_collectivism_weight_plus_one: "§Y集体主义权重+1§!"
+  env_individualism_weight_plus_two: "§Y个人主义权重+2§!"
+  env_collectivism_weight_plus_two: "§Y集体主义权重+2§!"
   cyber.505.a: "我们应该促进民主进程。$env_individualism_weight_plus_two$"
   cyber.505.b: "我们必须将意识连接到一起。$env_collectivism_weight_plus_two$"
   cyber.510.a: "让那些马屁精们为我们呕心沥血吧。$env_individualism_weight_plus_two$"
@@ -67,10 +67,10 @@
   leader_trait_firewalled: "神经防火墙$env_collectivism_weight_plus_one$"
 
   # 格式塔
-  env_will_weight_plus_one: "§Y[意志权重+1]§!"
-  env_integration_weight_plus_one: "§Y[集成权重+1]§!"
-  env_will_weight_plus_two: "§Y[意志权重+2]§!"
-  env_integration_weight_plus_two: "§Y[集成权重+2]§!"
+  env_will_weight_plus_one: "§Y意志权重+1§!"
+  env_integration_weight_plus_one: "§Y集成权重+1§!"
+  env_will_weight_plus_two: "§Y意志权重+2§!"
+  env_integration_weight_plus_two: "§Y集成权重+2§!"
   cyber.2205.a: "选择多种不同的原型。$env_will_weight_plus_two$"
   cyber.2205.b: "选择一种面面俱到的原型。$env_integration_weight_plus_two$"
   cyber.2220.a: "人多力量大。$env_will_weight_plus_one$"

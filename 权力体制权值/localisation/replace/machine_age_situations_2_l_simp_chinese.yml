@@ -1,9 +1,9 @@
 ﻿l_simp_chinese:
  # 合成
- env_physical_weight_plus_one: "§Y[物理权重+1]§!"
- env_physical_weight_plus_two: "§Y[物理权重+2]§!"
- env_virtual_weight_plus_one: "§Y[虚拟权重+1]§!"
- env_virtual_weight_plus_two: "§Y[虚拟权重+2]§!"
+ env_physical_weight_plus_one: "§Y物理权重+1§!"
+ env_physical_weight_plus_two: "§Y物理权重+2§!"
+ env_virtual_weight_plus_one: "§Y虚拟权重+1§!"
+ env_virtual_weight_plus_two: "§Y虚拟权重+2§!"
  synth.505.a: "我们应该关注迁徙的自由。$env_physical_weight_plus_two$"
  synth.505.b: "我们必须为战争的恐怖做准备。$env_virtual_weight_plus_two$"
  synth.510.a: "专注于接管低效身体。$env_physical_weight_plus_two$"
